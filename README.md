@@ -12,9 +12,9 @@ Well, this is my first projent in React. Building this project really helped to 
 
 ## Final Images
 
-Image 1 ![Image 1](https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_2.png, "Screenshot 1")
+Image 1 ![Image 1](https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_2.png "Screenshot 1")
 
-Image 2 ![Image 2](https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_1.png, "Screenshot 2")
+Image 2 ![Image 2](https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_1.png "Screenshot 2")
 
 
 See you some other time...
