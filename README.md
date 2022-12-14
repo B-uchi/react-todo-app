@@ -11,9 +11,9 @@ Well, this is my first projent in React. Building this project really helped to 
 - Thinking in react
 
 ## Final Images
-Image 1 [Image 1] (./screenshots/screenshot_1)
+[Image 1] (./screenshots/screenshot_1)
 
-Image 2 [Image 2] (./screenshots/screenshot_2)
+[Image 2] (./screenshots/screenshot_2)
 
 
 See you some other time...
