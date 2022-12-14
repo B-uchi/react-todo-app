@@ -11,9 +11,9 @@ Well, this is my first projent in React. Building this project really helped to 
 - Thinking in react
 
 ## Final Images
-[Image 1] (./screenshots/screenshot_1)
+[Image 1] (https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_2.png)
 
-[Image 2] (./screenshots/screenshot_2)
+[Image 2] (https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_1.png)
 
 
 See you some other time...
