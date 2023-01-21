@@ -17,6 +17,9 @@ Image 1 ![Image 1](https://github.com/B-uchi/react-todo-app/blob/main/screenshot
 Image 2 ![Image 2](https://github.com/B-uchi/react-todo-app/blob/main/screenshots/screenshot_1.png "Screenshot 2")
 
 
+## Site Preview
+Click [here](https://todo-app-buchi.netlify.app/) to preview the project
+
 See you some other time...
 
 `Thanks for stopping by... 🙂`
